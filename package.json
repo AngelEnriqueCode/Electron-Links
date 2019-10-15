@@ -1,0 +1,12 @@
+{
+  "name": "Electronjs-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
