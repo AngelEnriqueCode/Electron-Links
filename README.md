@@ -5,9 +5,9 @@ Could be no the best option for a desktop app but if you want to do a desktop ap
 
 ## SETUP:
 
-npm install
+> npm install
 
 ## RUNNING
 
-npm run start
+> npm run start
 
