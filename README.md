@@ -7,6 +7,7 @@ Could be no the best option for a desktop app but if you want to do a desktop ap
 
 npm install
 
-Running
+## RUNNING
+
 npm run start
 
